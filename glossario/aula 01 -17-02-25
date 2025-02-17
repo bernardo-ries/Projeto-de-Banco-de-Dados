@@ -1,7 +1,7 @@
 Um banco de dados é um conjunto de dados organizados de maneira estruturada, armazenados e acessíveis de forma eficiente. Esses dados podem ser de qualquer tipo: texto, números, imagens, etc.
 O objetivo principal do BD é armazenar e organizar as informações para que possam ser facilmente consultadas, modificadas ou mantidas.
 
-O SGDB é um software responsável por controlar o acesso a um banco de dados, ele fornece as ferramentas e a interface necessária para criar, manipular e consultar os dados, armazenados, garantindo a segurança e eficiência no armazenamento dos dados.
+O SGDB é um software responsável por controlar o acesso a um banco de dados, ele fornece as ferramentas e a interface necessária para criar, manipular e consultar os dados, armazenados, garantindo a integridade e eficiência no armazenamento dos dados.
 
 Exemplos: MySQL, PostgreSQL, Oracle Database e Microsoft SQL Server.
 
