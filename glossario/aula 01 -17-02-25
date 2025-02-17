@@ -1,0 +1,20 @@
+Um banco de dados é um conjunto de dados organizados de maneira estruturada, armazenados e acessíveis de forma eficiente. Esses dados podem ser de qualquer tipo: texto, números, imagens, etc.
+O objetivo principal do BD é armazenar e organizar as informações para que possam ser facilmente consultadas, modificadas ou mantidas.
+
+O SGDB é um software responsável por controlar o acesso a um banco de dados, ele fornece as ferramentas e a interface necessária para criar, manipular e consultar os dados, armazenados, garantindo a segurança e eficiência no armazenamento dos dados.
+
+Exemplos: MySQL, PostgreSQL, Oracle Database e Microsoft SQL Server.
+
+O modelo relacional de Banco de dados é um dos tipos mais comuns de modelo de dados. Ele organiza os dados em tabelas(relações) que são compostas por linhas(tuplas) e colunas(atributos).
+
+Relações: Dados são armazenados em tabelas, e cada tabela representa uma entidade ou conceito, como "Clientes", "Produtos", "Pedidos", etc.
+
+Tuplas: Cada linha em uma tabela representa uma instância de dados. Por exemplo, uma linha pode representar um cliente especifíco.
+
+Atributos: Cada coluna em uma tabela contém um tipo especifico de dado, como nome, endereço ou preço.
+
+Primary key: É uma coluna ou um conjunto de coluas que identificam unicamente cada linha de uma tabela.
+
+Foreign Key: Uma Foreign Key é uma coluna que cria uma relação entre duas tabelas. Ela contém valores que correspondem à chave primária de outra tabela, permitindo a relação de dados entre tabelas.
+
+Um microserviço é um estilo de arquitetura de software onde um sistema é dividido em pequenas unidades independentes, chamada microserviços. Cada microserviço é responsável por uma parte especifica e pode ser desenvolvido, implantado e escalado independentemente. 
